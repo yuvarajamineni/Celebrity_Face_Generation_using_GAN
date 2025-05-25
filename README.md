@@ -35,7 +35,7 @@ This project implements a **Generative Adversarial Network (GAN)** using TensorF
 
 ## 🗂 Dataset
 
-- Directory: `./content/data/`
+- https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset
 - Requirements:
   - Grayscale images
   - Size: 28x28 pixels (auto-resized in code)
